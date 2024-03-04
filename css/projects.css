@@ -1,0 +1,54 @@
+h5,h2{
+  text-align: center;
+}
+.card {
+
+  background-color: #f0f0f0;
+  transform: skew(-20deg); 
+  overflow: hidden; 
+  border: 10px solid #14ec48;
+  padding: 5px;
+}
+.card-text{
+  width: 80%;
+  margin: auto;
+}
+.content {
+  transform: skew(20deg);
+}
+section{
+  margin: 7em auto;
+}
+.soft-ebilim-wrapper, .soft-ebilim-video{
+  display: flex;
+  justify-content: space-between;
+  margin: auto!important;
+}
+button{
+  display: block;
+  margin:auto!important;
+border-radius: 10px!important;
+  border: none;
+  padding: 10px;
+  background-color: #FE7D1F!important;
+  color: #fff!important;
+  width: 200px!important;
+}
+.ebilim-number{
+  color: #14ec48;
+}
+.text-start > h2{
+  text-align: start!important;
+}
+.modal-header{
+  justify-content: space-between!important;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: #d3d3d3!important;
+  border-radius: 8px;
+}
+.ebilim-video{
+  width: 100%;
+  border-radius: 10px;
+  height: 75%;
+}
