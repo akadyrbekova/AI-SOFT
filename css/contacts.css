@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+iframe {
+  border-radius: 25px;
+}
+
+.contacts {
+  margin-top: 9rem;
+}
+
+.contacts-title {
+  margin-top: 3em !important;
+}
+
+li>a {
+  text-align: center;
+}
+
+.map {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
